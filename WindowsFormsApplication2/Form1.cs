@@ -29,7 +29,7 @@ namespace WindowsFormsApplication2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Error!What's going on?", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            MessageBox.Show("Error!!!", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
     }
 }
